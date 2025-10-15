@@ -2,7 +2,6 @@ package java8andlater.Comparable;
 // import java8-later.Comparable.Employee; // Removed invalid import
 import java.util.ArrayList;
 import java.util.List;
-import java8andlater.Comparable.Employee;
 
 public class Comparable {
     public static void main(String[] args) {
