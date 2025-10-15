@@ -1,4 +1,4 @@
-package basic.java.course.designpatterns.singletonDP;
+package designpatterns.singletonDP;
 
 public class Samosa {
     //approach: Lazy way of creating single object

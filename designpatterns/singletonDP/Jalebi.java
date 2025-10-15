@@ -1,4 +1,4 @@
-package basic.java.course.designpatterns.singletonDP;
+package designpatterns.singletonDP;
 
 public class Jalebi {
     //Approach: Eager way of creating singleton object

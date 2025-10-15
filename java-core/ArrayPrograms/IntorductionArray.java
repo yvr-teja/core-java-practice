@@ -1,4 +1,4 @@
-package TopicWisePrograms.ArrayPrograms;
+package ArrayPrograms;
 
 public class IntorductionArray {
 

@@ -1,4 +1,4 @@
-package basic.java.course.designpatterns.singletonDP;
+package designpatterns.singletonDP;
 
 public class Test {
     public static void main(String[] args) {
