@@ -1,4 +1,4 @@
-package TopicWisePrograms.switchExamples;
+package switchExamples;
 
 public class OldSwitchCases {
     public static void main(String[] args) {

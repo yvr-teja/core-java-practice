@@ -1,4 +1,4 @@
-package TopicWisePrograms.switchExamples;
+package switchExamples;
 
 public class SwitchNewArraowExample {
     public static void main(String[] args) {
