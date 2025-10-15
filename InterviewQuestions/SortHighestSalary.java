@@ -17,7 +17,5 @@ public class SortHighestSalary {
                 sorted((e1, e2) -> e1.salary - e2.salary).
                 collect(Collectors.toList());
         System.out.println(employees);
-
-
     }
 }

@@ -1,7 +1,8 @@
 package InterviewQuestions.OccurenceAndCount;
 
-import java.util.*;
-
+import java.util.HashMap; 
+import java.util.Map;
+ 
 public class ArraysOccurence {
     public static void main(String[] args) {
         String name[]={"A","B","C","A","C"};

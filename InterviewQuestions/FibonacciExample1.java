@@ -1,5 +1,4 @@
 package InterviewQuestions;
-
 //Fibonacci Series in Java without using recursion
 class FibonacciExample1
 {

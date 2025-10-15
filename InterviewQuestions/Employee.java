@@ -7,7 +7,7 @@ public class Employee {
     public String getName() {
         return name;
     }
-
+    
     public int getSalary() {
         return salary;
     }
