@@ -1,4 +1,4 @@
-package org.example.StringbasedProblems;
+package Leetcode;
 
 
 import java.util.Arrays;

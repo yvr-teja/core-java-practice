@@ -1,4 +1,4 @@
-package basic.interview.questions.Arrayquestions.easy;
+package Leetcode;
 
 import java.util.Arrays;
 import java.util.OptionalInt;
