@@ -1,12 +1,13 @@
-package TopicWisePrograms.ArrayPrograms;
-
+package ArrayPrograms;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
 
 public class ArrayExample
 {
+    
 public static void main(String[] args) throws CloneNotSupportedException
  {
+
 //Array with duplicate elements
 Integer[] numbers = new Integer[] {1,2,3,4,5,1,3,5};
 
